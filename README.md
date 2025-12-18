@@ -1,4 +1,4 @@
-# 🦙 AI-Powered Learning Assistant
+# Learning Partner - AI Powered Learning Assistant
 
 A full-stack web application that helps users learn from PDF documents using AI-powered features with Llama (via Ollama).
 
