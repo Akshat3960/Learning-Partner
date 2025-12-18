@@ -253,35 +253,11 @@ lsof -ti:5000 | xargs kill -9
 
 # Kill process on port 3000
 lsof -ti:3000 | xargs kill -9
-```
+```  
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-
-Project Link: [https://github.com/yourusername/learning-assistant](https://github.com/yourusername/learning-assistant)
-
-## 🙏 Acknowledgments
-
-- [Ollama](https://ollama.ai/) - Local AI runtime
-- [Meta Llama](https://llama.meta.com/) - Language model
-- [React](https://react.dev/) - Frontend framework
-- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
-- [MongoDB](https://www.mongodb.com/) - Database
 
 ## 📸 Screenshots
 
